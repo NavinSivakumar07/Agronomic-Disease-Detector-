@@ -9,8 +9,7 @@
 * Application predicts the uploaded image into 1 of the category: <strong>"diseased cotton leaf" </strong>, <strong>"diseased cotton plant" </strong>, <strong>"fresh cotton leaf" </strong>, and <strong>"fresh cotton plant"</strong> 
 * Images captured from drone/camera can be used to predict the cotton disease. Whereas, the manual intervention of detecting cotton disease would be difficult for large area of land.
 
-## Demo video :point_down:
-* https://youtu.be/p8kCMDpUi3Y :movie_camera:
+
 
 ## Tech stack :point_down:
 Deep learning | Keras | Python | AJAX | Bootstrap | Pycharm IDE :computer:
